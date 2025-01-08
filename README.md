@@ -1,2 +1,2 @@
 # Calculator
-This calculator is made with in Java
+This calculator is made using Java.
